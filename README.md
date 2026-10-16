@@ -48,4 +48,4 @@ Bu kurs öncelikle üniversite birinci sınıf öğrencileri için hazırlanmı�
 - Kodlama bilgisi veya ek yazılım kurulumu gerekmez.
 
 ---
-> Son Güncellenme Tarihi: 16 Ekim 2026
+> Son Güncellenme Tarihi: **`16 Ekim 2026`**
